@@ -1,16 +1,46 @@
-## Hi there 👋
+# Aseda Samuel Ohene-Adu
 
-<!--
-**aseda-sam/aseda-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Startup Product Engineer — Building, Shipping, Scaling AI Systems**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi, I'm Aseda!
+Product Software Engineer blending hands-on AI system development, startup hustle, and deep data engineering expertise. From zero-to-one product launches to architecting scalable data pipelines, I thrive at the intersection of innovation, speed and impact.
+
+---
+
+## 🏆 Featured Project
+
+### Tennis Coach App 🎾
+A modular coaching assistant for casual tennis players. Designed to empower players by providing analysis and feedback on common tennis techniques and tracking improvements over time. 
+
+---
+
+## 🛠️ Skills & Tech
+
+- **Python**
+- **Typescript**
+- **FastAPI**
+- - **React**
+- **Apache Spark**
+- Data Engineering & AI System Architecture
+- (Enterprise) Palantir Foundry
+
+---
+
+## 🧩 Fun Facts
+
+- Tennis enthusiast
+- Photographer (Fuji Shooter)
+- Always experimenting
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/aseda-ohene-adu-278863110/)  
+[Twitter](https://twitter.com/aseda-sam)
+
+---
+
+> “Turning ideas into products. Architecting what doesn’t exist yet.”
