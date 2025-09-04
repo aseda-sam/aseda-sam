@@ -22,6 +22,6 @@ Check the [repo](https://github.com/aseda-sam/tennis_coach_app) out
 
 ## 🧩 Fun Facts
 - Racket Sports Enthusiast
-- Photographer (Fuji, Canon, DJ Shooter)
+- Photographer (Fuji & Canon Shooter)
 - Water Sports (Might start to develop some projects there too for this hobby)
 - Always experimenting
