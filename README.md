@@ -5,7 +5,7 @@
 ---
 
 ### 👋 Hi, I'm Aseda Sam!
-Software Engineer blending hands-on AI System development, startup hustle, and data engineering expertise. From zero-to-one product launches to architecting scalable data pipelines, I thrive at the intersection of deep curiosity and experimentation. The more difficult the problem is, the more excited I am.
+Software Engineer blending system development, startup hustle, and data engineering expertise. From zero-to-one product launches to architecting scalable data pipelines, I thrive at the intersection of deep curiosity and experimentation. The more difficult the problem is, the more excited I am.
 
 ---
 
