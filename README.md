@@ -17,11 +17,3 @@ A coaching assistant app for casual tennis players. Designed to empower players 
 I'm currently working on a feature to analyse a player's posture on groundstroke contact with the ball during a rally.
 
 Check the [repo](https://github.com/aseda-sam/tennis_coach_app) out
-
----
-
-## 🧩 Fun Facts & Hobbies
-- Racket Sports Enthusiast
-- Rowing
-- Photographer x Fujifilm
-- Always experimenting
