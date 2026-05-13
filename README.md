@@ -1,19 +1,19 @@
 # Aseda Samuel Ohene-Adu
 
-**Startup Product Engineer: Building, Shipping & Scaling AI Systems**
+**Product Engineer: Building & Scaling AI Systems**
 
 ---
 
 ### 👋 Hi, I'm Aseda Sam!
-Engineer blending system development, startup hustle, and data engineering expertise. From zero-to-one product launches to architecting scalable data pipelines, I thrive at the intersection of deep curiosity and experimentation. The more difficult the problem is, the more excited I am.
+Engineer blending system development and startup hustle. The more difficult the problem is, the more excited I am.
 
 ---
 
 ## 🏆 Featured Personal Project
 
-### Tennis Coach App 🎾
-A coaching assistant app for casual tennis players. Designed to empower players by providing analysis and feedback on common tennis techniques and tracking improvements over time.
+### Tennis Coach App (Recently renamed to SecondServe) 🎾
+A coaching assistant app for casual tennis players. Designed to assist players by providing analysis and feedback on common tennis techniques and tracking improvements over time.
 
-I'm currently working on a feature to analyse a player's posture on groundstroke contact with the ball during a rally.
+I'm currently working on a feature to analyse a player's posture during serves.
 
 Check the [repo](https://github.com/aseda-sam/tennis_coach_app) out
