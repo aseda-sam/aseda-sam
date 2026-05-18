@@ -1,11 +1,11 @@
 # Aseda Samuel Ohene-Adu
 
-**Product Engineer: Building & Scaling AI Systems**
+**Product Engineer**
 
 ---
 
 ### 👋 Hi, I'm Aseda Sam!
-Engineer blending system development and startup hustle. The more difficult the problem is, the more excited I am.
+Engineer blending system development and startup hustle.
 
 ---
 
